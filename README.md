@@ -1,4 +1,5 @@
 Cristopher astaiza herrera - Zona centro sur - Game designer.
+
 -------------------------Perfil------------------------------
 
 

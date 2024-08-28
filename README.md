@@ -1,2 +1,3 @@
-# Sapitos verdes
-Este es el repositorio grupal donde realizaremos todo los aportes!
+Presentacion para equipos
+
+Cristopher Astaiza herrera --- rol game designer 

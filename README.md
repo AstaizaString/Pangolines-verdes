@@ -1,10 +1,10 @@
 Presentacion 
 Este es nuestro equipo de trabajo llamado sapitos verdes, pondremos a continuacion el rol escogido por cada estudiante 
-Cristopher astaiza herrera - Zona centro sur - Game designer.
+Sandro Alfonso Ramirez Caleron - Zona centro sur - (rol a escoger).
 
 -------------------------Perfil------------------------------
 
 
-Mi nombre es cristopher astaiza herera tengo 21 años, estoy en el programa de ingenieria multimedia, vivo en palmira valle del cauca, me gusta mucho los videojuegos y su creacion, estoy muy enfocando en el desarrollo web y la optimizacion de videojuegos.
+Mi nombre es Sandro Alfonso Ramirez Calderon y tengo 24 años, estoy en el programa de ingenieria multimedia, vivo en palmira valle del cauca, me gusta mucho ver animes, me gusta ver peliculas y soy de estar en espacios libres, todo terreno.
 
-![me](https://github.com/user-attachments/assets/4304438d-459f-4175-9ab7-0b12b1343f99)
+(Falta foto) rull

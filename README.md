@@ -18,3 +18,5 @@ los videojuegos y el area o rol de "Gameplay Animator" al tener cierta experienc
 
 
 ## Mi nombre es David García, tengo 20 años, estoy en el programa de ingenieria multimedia, vivo en cali valle del cauca, me gusta mucho los videojuegos y la edición multimedia, estoy muy enfocando en la edición de audio digital y el desarrollo de videojuegos.#
+
+## Mi nombre es Mariana Baos Dominguez, tengo 19 años, estoy en el programa de Ingenieria Multimedia, vivo en Guacarí Valle del Cauca, me gustan los videojuegos desde muy temprana edad, el anime y el voleibol, me considero una persona proactiva y habil en el desarrollo de personajes 2D.#

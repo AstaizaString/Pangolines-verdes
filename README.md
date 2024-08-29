@@ -17,4 +17,4 @@ los videojuegos y el area o rol de "Gameplay Animator" al tener cierta experienc
 ![JuanCamilo](https://github.com/user-attachments/assets/a84f5794-5dc3-4092-b5a2-8f52ddb03da2)
 
 
-## Mi nombre es David García, tengo 20 años, estoy en el programa de ingenieria multimedia, vivo en buga valle del cauca, me gusta mucho los videojuegos y la edición multimedia, estoy muy enfocando en la edición de audio digital y el desarrollo de videojuegos.#
+## Mi nombre es David García, tengo 20 años, estoy en el programa de ingenieria multimedia, vivo en cali valle del cauca, me gusta mucho los videojuegos y la edición multimedia, estoy muy enfocando en la edición de audio digital y el desarrollo de videojuegos.#

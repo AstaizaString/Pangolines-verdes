@@ -15,3 +15,6 @@ Mi nombre es Juan Camilo Bedoya Reyes, tengo 20 años, estoy cursando en el prog
 los videojuegos y el area o rol de "Gameplay Animator" al tener cierta experiencia en el area de animacion 3D.
 
 ![JuanCamilo](https://github.com/user-attachments/assets/a84f5794-5dc3-4092-b5a2-8f52ddb03da2)
+
+
+## Mi nombre es David García, tengo 20 años, estoy en el programa de ingenieria multimedia, vivo en cali valle del cauca, me gusta mucho los videojuegos y la edición multimedia, estoy muy enfocando en la edición de audio digital y el desarrollo de videojuegos.#

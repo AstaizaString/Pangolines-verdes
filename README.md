@@ -3,7 +3,7 @@
 ![sapos hps verdes](https://github.com/user-attachments/assets/21622170-8f5e-4f6f-a52a-e79a87731527)
 
 Presentacion 
-Este es nuestro equipo de trabajo llamado sapitos verdes, pondremos a continuacion el rol escogido por cada estudiante 
+Este es nuestro equipo de trabajo llamado sapitos verdes, somos un grupo de niños especiales con multiples y diversos talentos y sobretodo un corazón gigante
 
 
 Cristopher astaiza herrera - Zona centro sur - Game designer.
@@ -22,8 +22,9 @@ los videojuegos y el area o rol de "Gameplay Animator" al tener cierta experienc
 
 ![JuanCamilo](https://github.com/user-attachments/assets/a84f5794-5dc3-4092-b5a2-8f52ddb03da2)
 
+David García - Zona centro sur - Character artist / Level designer
 
-## Mi nombre es David García, tengo 20 años, estoy en el programa de ingenieria multimedia, vivo en cali valle del cauca, me gusta mucho los videojuegos y la edición multimedia, estoy muy enfocando en la edición de audio digital y el desarrollo de videojuegos.#
+## Mi nombre es David García, tengo 20 años, estoy en el programa de ingenieria multimedia, vivo en buga valle del cauca, me gusta mucho los videojuegos y la edición multimedia, estoy muy enfocando en la edición de audio digital y el desarrollo de videojuegos.#
 
 ![foto](https://github.com/user-attachments/assets/82f54eb7-ad0b-43e8-b196-1da080f27794)
 

@@ -1,4 +1,4 @@
-# SAPOS VERDES
+ #                                                                               SAPOS VERDES
 
 ![sapos hps verdes](https://github.com/user-attachments/assets/21622170-8f5e-4f6f-a52a-e79a87731527)
 
@@ -22,7 +22,7 @@ los videojuegos y el area o rol de "Gameplay Animator" al tener cierta experienc
 
 ![JuanCamilo](https://github.com/user-attachments/assets/a84f5794-5dc3-4092-b5a2-8f52ddb03da2)
 
-David García - Zona centro sur - Character artist / Level designer
+## David García - Zona centro sur - Character artist / Level designer
 
 ## Mi nombre es David García, tengo 20 años, estoy en el programa de ingenieria multimedia, vivo en buga valle del cauca, me gusta mucho los videojuegos y la edición multimedia, estoy muy enfocando en la edición de audio digital y el desarrollo de videojuegos.#
 

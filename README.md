@@ -1,3 +1,8 @@
+!Imagen Lobos Informáticos
+
+Somos un grupo integrado por 5 estudiantes del programa de ingeniería multimedia, (3 hombres y 2 mujeres), dedicados a la creación de un video juego, dentro del curso de programación para videojuegos de la UNAD.
+
+
 Presentacion 
 Este es nuestro equipo de trabajo llamado sapitos verdes, pondremos a continuacion el rol escogido por cada estudiante 
 Cristopher astaiza herrera - Zona centro sur - Game designer.

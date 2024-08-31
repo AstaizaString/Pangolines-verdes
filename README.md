@@ -15,10 +15,10 @@ Este es nuestro equipo de trabajo llamado sapitos verdes, somos un grupo de niñ
 
 ![me](https://github.com/user-attachments/assets/4304438d-459f-4175-9ab7-0b12b1343f99)
 
-## JuanCamiloBedoyaReyes
+## Juan Camilo Bedoya Reyes - Zona centro sur - Gameplay Animator
 
-Mi nombre es Juan Camilo Bedoya Reyes, tengo 20 años, estoy cursando en el programa de Ingenieria Multimedia, vivo en Calí en el Valle del Cauca, me apasionan
-los videojuegos y el area o rol de "Gameplay Animator" al tener cierta experiencia en el area de animacion 3D.
+## Mi nombre es Juan Camilo Bedoya Reyes, tengo 20 años, estoy cursando en el programa de Ingenieria Multimedia, vivo en Calí en el Valle del Cauca, me apasionan
+los videojuegos y el area o rol de "Gameplay Animator" ya que me gusta darle vida a los personajes 3D y 2D, además al tener cierta experiencia en el area de animacion 3D.
 
 ![JuanCamilo](https://github.com/user-attachments/assets/a84f5794-5dc3-4092-b5a2-8f52ddb03da2)
 

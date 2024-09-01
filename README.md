@@ -1,6 +1,6 @@
 Presentacion 
 Este es nuestro equipo de trabajo llamado sapitos verdes, pondremos a continuacion el rol escogido por cada estudiante 
-Sandro Alfonso Ramirez Caleron - Zona centro sur - (rol a escoger).
+Sandro Alfonso Ramirez Caleron - Zona centro sur - (QA GAME TESTER).
 
 -------------------------Perfil------------------------------
 

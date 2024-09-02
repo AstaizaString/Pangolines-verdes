@@ -28,6 +28,12 @@ Este es nuestro equipo de trabajo llamado sapitos verdes, somos un grupo de niñ
 ![foto](https://github.com/user-attachments/assets/82f54eb7-ad0b-43e8-b196-1da080f27794)
 
 ## Mariana Baos Dominguez - Zona sur norte oriente y occiente - Game designer.
+
 ## Mi nombre es Mariana Baos Dominguez, tengo 19 años, estoy en el programa de Ingenieria Multimedia, vivo en Guacarí Valle del Cauca, me gustan los videojuegos desde muy temprana edad, el anime y el voleibol, me considero una persona proactiva y el area o rol " game illustrator" ya que soy habil en el desarrollo de personajes 2D.#
 
 ![Perfil](https://github.com/user-attachments/assets/f5762dc0-363f-4285-9d53-83fdb3f629e3)
+
+# Sandro Alfonso ramirez Calderon##
+Mi nombre es Sandro Alfonso Ramirez Calderon y tengo 24 años, estoy en el programa de ingenieria multimedia, vivo en palmira valle del cauca, me gusta mucho ver animes, me gusta ver peliculas y soy de estar en espacios libres, me considero expontaneo y responsable.
+
+![Imagen de WhatsApp 2023-10-21 a las 22 29 10_8528495d](https://github.com/user-attachments/assets/4743f1e1-2def-4f6d-a273-4d0410d33df9) 

@@ -6,7 +6,7 @@ Presentacion
 Este es nuestro equipo de trabajo llamado sapitos verdes, somos un grupo de niños especiales con multiples y diversos talentos y sobretodo un corazón gigante
 
 
-## Cristopher astaiza herrera - Zona centro sur - Game designer.
+## Cristopher astaiza herrera - Zona centro sur - Game designer - Rh A+ - Palmira valle del cauca - Codigo postal 763531.
 
 -------------------------Perfil------------------------------
 

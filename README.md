@@ -23,7 +23,7 @@ Este es nuestro equipo de trabajo llamado sapitos verdes, somos un grupo de niñ
 
 # David García - Zona centro sur - Character artist / Level designer
 
-## Mi nombre es David García, tengo 20 años, estoy en el programa de ingenieria multimedia, vivo en cali valle del cauca, me gusta mucho los videojuegos y la edición multimedia, estoy muy enfocando en la edición de audio digital y el desarrollo de videojuegos.#
+## Mi nombre es David García, tengo 20 años, estoy en el programa de ingenieria multimedia, vivo en cali valle del cauca, vivo en charco blue, código postal: 760004, el prefijo telefonico mío es +57 3176861152, mi cedula es 1106510035 me gusta mucho los videojuegos y la edición multimedia, mi sueño es CEO de la empresa de alimentos QUALA (empresa creadora de bonice, frutiño, etc) ya que me dijo un pajarito que el CEO de QUALA gana millones de dolares y pues la verdad me gustaría para construirles una casa a todas las personas que viven en cambuches aquí en charco blue, estoy muy enfocando en la edición de audio digital y el desarrollo de videojuegos.# RH -O, no tengo alergias, estracto social 1
 
 ![foto](https://github.com/user-attachments/assets/82f54eb7-ad0b-43e8-b196-1da080f27794)
 

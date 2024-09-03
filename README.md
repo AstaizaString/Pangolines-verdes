@@ -27,9 +27,9 @@ Este es nuestro equipo de trabajo llamado sapitos verdes, somos un grupo de niñ
 
 ![foto](https://github.com/user-attachments/assets/82f54eb7-ad0b-43e8-b196-1da080f27794)
 
-## Mariana Baos Dominguez - Zona sur norte oriente y occiente - Game designer.
+## Mariana Baos Dominguez - Zona sur norte oriente y occiente - Game illustrator.
 
-## Mi nombre es Mariana Baos Dominguez, tengo 19 años, estoy en el programa de Ingenieria Multimedia, vivo en Guacarí Valle del Cauca, me gustan los videojuegos desde muy temprana edad, el anime y el voleibol, me considero una persona proactiva y el area o rol " game illustrator" ya que soy habil en el desarrollo de personajes 2D.#
+## Mi nombre es Mariana Baos Dominguez, tengo 19 años, estoy en el programa de Ingenieria Multimedia, vivo en Guacarí Valle del Cauca, me gustan los videojuegos desde muy temprana edad, el anime y el voleibol, me considero una persona proactiva y el area o rol " game illustrator" ya que soy habil en el desarrollo de personajes 2D.Rh O+ - Guacari Valle del cauca - codigo postal 763501 - estracto social 2. #
 
 ![Perfil](https://github.com/user-attachments/assets/f5762dc0-363f-4285-9d53-83fdb3f629e3)
 
